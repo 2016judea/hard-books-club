@@ -1,0 +1,53 @@
+week,date,title,author,rating,existing_words,needs_writing,source
+1,2026-11-16,The Ascent of Money,Niall Ferguson,4,291,N,substack: 2023-09-27 September '23 https://aidanjude.substack.com/p/september
+2,2026-11-23,American Psycho,Bret Easton Ellis,5,222,N,substack: 2023-01-08 January: Part 1 '23 https://aidanjude.substack.com/p/january-part-1
+3,2026-11-30,Blood Meridian,Cormac McCarthy,5,149,N,goodreads_review
+4,2026-12-07,The Uncanny,Sigmund Freud,5,173,N,goodreads_review
+5,2026-12-14,Simulacra and Simulation,Jean Baudrillard,4,204,N,goodreads_review
+6,2026-12-21,The White Album,Joan Didion,4,177,N,substack: 2023-02-24 February '23 https://aidanjude.substack.com/p/february
+7,2026-12-28,Stella Maris,Cormac McCarthy,4,181,N,goodreads_review
+8,2027-01-04,Thus Spoke Zarathustra,Friedrich Nietzsche,4,134,N,goodreads_review
+9,2027-01-11,As I Lay Dying,William Faulkner,4,104,N,goodreads_review
+10,2027-01-18,The Trial and Death of Socrates,Plato,4,104,N,goodreads_review
+11,2027-01-25,Hyperion,Dan Simmons,4,100,N,goodreads_review
+12,2027-02-01,The Passenger,Cormac McCarthy,5,91,Y,goodreads_review
+13,2027-02-08,On the Use and Abuse of History for Life,Friedrich Nietzsche,4,90,Y,goodreads_review
+14,2027-02-15,This Side of Paradise,F. Scott Fitzgerald,5,71,Y,goodreads_review
+15,2027-02-22,"Absalom, Absalom!",William Faulkner,5,65,Y,goodreads_review
+16,2027-03-01,The Violent Bear It Away,Flannery O'Connor,4,79,Y,goodreads_review
+17,2027-03-08,On the Genealogy of Morals,Friedrich Nietzsche,5,61,Y,substack: 2023-12-17 December '23 https://aidanjude.substack.com/p/december
+18,2027-03-15,The Throne of the Third Heaven of the Nations Millennium General Assembly,Denis Johnson,5,61,Y,goodreads_review
+19,2027-03-22,The Odyssey,Homer,5,58,Y,goodreads_review
+20,2027-03-29,Play It As It Lays,Joan Didion,5,52,Y,goodreads_review
+21,2027-04-05,Outer Dark,Cormac McCarthy,5,45,Y,goodreads_review
+22,2027-04-12,Atlas Shrugged,Ayn Rand,5,43,Y,goodreads_review
+23,2027-04-19,The Catcher in the Rye,J.D. Salinger,5,43,Y,substack: 2026-08-27 AUG 26 — PT2 https://aidanjude.substack.com/p/aug-26-aa5
+24,2027-04-26,Slouching Towards Bethlehem,Joan Didion,5,48,Y,goodreads_review
+25,2027-05-03,The Sun Also Rises,Ernest Hemingway,4,50,Y,substack: 2024-05-21 May '24 https://aidanjude.substack.com/p/may-24
+26,2027-05-10,Angels,Denis Johnson,4,47,Y,goodreads_review
+27,2027-05-17,Twilight,William Gay,5,36,Y,goodreads_review
+28,2027-05-24,Selected Poems and Fragments,Friedrich Hölderlin,4,44,Y,goodreads_review
+29,2027-05-31,Less Than Zero,Bret Easton Ellis,5,35,Y,goodreads_review
+30,2027-06-07,Omensetter's Luck,William H. Gass,5,35,Y,goodreads_review
+31,2027-06-14,"Pierre; or, The Ambiguities",Herman Melville,4,43,Y,goodreads_review
+32,2027-06-21,The Fountainhead,Ayn Rand,5,34,Y,substack: 2023-02-24 February '23 https://aidanjude.substack.com/p/february
+33,2027-06-28,Hard Rain Falling,Don Carpenter,4,42,Y,goodreads_review
+34,2027-07-05,Still Possible,David Whyte,5,33,Y,goodreads_review
+35,2027-07-12,Cormac McCarthy Returns to the Kekulé Problem,Cormac McCarthy,5,32,Y,goodreads_review
+36,2027-07-19,Stoner,John Williams,5,31,Y,goodreads_review
+37,2027-07-26,Masscult and Midcult,Dwight Macdonald,4,35,Y,goodreads_review
+38,2027-08-02,Anatomy of the State,Murray N. Rothbard,5,28,Y,goodreads_review
+39,2027-08-09,"Moby-Dick or, The Whale",Herman Melville,5,23,Y,goodreads_review
+40,2027-08-16,Child of God,Cormac McCarthy,5,23,Y,goodreads_review
+41,2027-08-23,All of Us,Raymond Carver,4,27,Y,goodreads_review
+42,2027-08-30,The Creative Act,Rick Rubin,4,27,Y,goodreads_review
+43,2027-09-06,William Shakespeare - Sonnets,William Shakespeare,4,27,Y,goodreads_review
+44,2027-09-13,Suttree,Cormac McCarthy,4,28,Y,goodreads_review
+45,2027-09-20,I Hate to See That Evening Sun Go Down,William Gay,4,25,Y,goodreads_review
+46,2027-09-27,The Big Sleep,Raymond Chandler,5,20,Y,goodreads_review
+47,2027-10-04,The Dharma Bums,Jack Kerouac,4,20,Y,goodreads_review
+48,2027-10-11,Sometimes a Great Notion,Ken Kesey,5,16,Y,goodreads_review
+49,2027-10-18,The World Doesn't End,Charles Simic,4,19,Y,goodreads_review
+50,2027-10-25,Fahrenheit 451,Ray Bradbury,4,16,Y,goodreads_review
+51,2027-11-01,Waking Up,Sam Harris,4,14,Y,goodreads_review
+52,2027-11-08,The Science of Interstellar,Kip S. Thorne,4,14,Y,substack: 2023-06-18 June '23 https://aidanjude.substack.com/p/june
