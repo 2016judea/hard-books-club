@@ -2,7 +2,7 @@
 
 **Live:** https://intellectualreads.substack.com
 
-*(working name)* A paid Substack for reading the books people start and don't finish.
+A paid Substack for reading the books people start and don't finish.
 
 - **Free:** one book review a week, from Aidan's own reading archive (485 books logged on Goodreads).
 - **Paid ($8/mo, $70/yr):** one hard book a quarter, read slowly over 12 weeks. Each week brings his chapter notes, his saved quotes and a discussion thread.
