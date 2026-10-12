@@ -35,7 +35,14 @@ Nothing here sets it.
 | `archive/queue.csv` | 52 weekly free-tier reviews, existing text first |
 | `notes/queue.csv` | 90 daily Notes, each one of his saved quotes, verbatim, with no captions |
 | `growth/swaps.md` | 20 Substacks to ask for swaps, 20 subreddits, 8 Twin Cities bookstores |
+| `brand/covers/<slug>/` | Three cover options per drafted post (first edition, then his imprints), with `sources.csv` |
+| `archive/buy_links.csv` | Amazon and eBay links per post, with each eBay search's result count on 2026-10-11 |
 | `scripts/` | The generators. Re-run them, never hand-edit the CSVs |
+
+## Post checklist
+
+- Every post opens with a vintage cover: first edition, or Vintage International / Picador / Penguin Classics.
+- Every post closes with Buy it: Amazon for the in-print paperback, eBay saved searches for his preferred vintage editions.
 
 ## What still needs him
 
