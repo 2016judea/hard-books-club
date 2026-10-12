@@ -1,4 +1,4 @@
-# Data model — Hard Books Club
+# Data model — Intellectual Reads
 
 Written from the need alone, before looking at what data exists (BUSINESS.md rule 5).
 The need: a reader who wants to finish a hard book gets a weekly push, a guide who has

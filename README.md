@@ -1,4 +1,6 @@
-# Hard Books Club
+# Intellectual Reads
+
+**Live:** https://intellectualreads.substack.com
 
 *(working name)* A paid Substack for reading the books people start and don't finish.
 
