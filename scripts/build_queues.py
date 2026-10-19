@@ -29,7 +29,7 @@ import re
 CORPUS = os.path.expanduser("~/Desktop/writing-topology/data/personal_corpus")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ARCHIVE_START = dt.date(2026, 11, 16)
-NOTES_START = dt.date(2026, 11, 16)
+NOTES_START = dt.date(2026, 10, 12)  # bfe2dd8 moved the committed queue to 10/12 by hand; the generator must agree or a re-run silently pushes every Note back five weeks
 NEEDS_WRITING_UNDER = 100
 PIN = {"Blood Meridian": dt.date(2026, 11, 30)}
 

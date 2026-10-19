@@ -66,3 +66,5 @@ numbers come out of it.
 
 Private repo. The reviews and quotes are his, and the quoted passages belong to their
 authors.
+
+*2026-10-18 note: the daily Notes queue was moved to start 2026-10-12 (commit bfe2dd8), five weeks before the archive reviews; `notes/queue.csv` and `scripts/build_queues.py` now agree on that date.*
