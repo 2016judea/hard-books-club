@@ -59,7 +59,7 @@ python3 scripts/split_chapters.py <text>   > cohorts/blood-meridian/split.json
 python3 scripts/locate_quotes.py  <text>   # which chapter each saved quote is in
 ```
 
-Sources are in `~/Desktop/writing-topology/data/personal_corpus/`
+Sources are in `~/Desktop/workspace/writing-topology/data/personal_corpus/`
 (`goodreads_reads.json`, `quotes.json`, `book_review_inventory.json`). The book's text is
 in copyright, so it's read from a local copy and never committed. Only counts and chapter
 numbers come out of it.

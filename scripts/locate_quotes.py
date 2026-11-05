@@ -19,7 +19,7 @@ starts[0] = max(i for i in range(starts[1]) if lines[i].strip() == "I")
 bounds = starts + [len(lines)]
 chapters = [squash(" ".join(lines[bounds[k]+1:bounds[k+1]])) for k in range(23)]
 quotes = json.load(open(os.path.expanduser(
-    "~/Desktop/writing-topology/data/personal_corpus/quotes.json")))
+    "~/Desktop/workspace/writing-topology/data/personal_corpus/quotes.json")))
 for q in quotes:
     if q["book"] != "Blood Meridian":
         continue
